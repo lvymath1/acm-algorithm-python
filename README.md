@@ -11,7 +11,7 @@
 
 ## 算法目录
 **我的 Codeforces 账号**
-[![LYmiracle](https://img.shields.io/badge/LYmiracle-Expert-blue?style=for-the-badge)](https://codeforces.com/profile/LYmiracle)
+[![LYmiracle](https://img.shields.io/badge/LYmiracle-Expert-%201733-blue?style=for-the-badge)](https://codeforces.com/profile/LYmiracle)
 
 
 **我的 Leetcode 账号**
