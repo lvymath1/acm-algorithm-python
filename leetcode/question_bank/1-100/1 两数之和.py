@@ -1,4 +1,5 @@
 # https://leetcode.cn/problems/two-sum/
+# 哈希表
 from typing import List
 
 
