@@ -12,6 +12,12 @@
 - 相关题目（模板题、经典题、思维转换题等）
 
 ## 算法目录
+- [排序](/code-template/sort)
+  - [冒泡排序](/code-template/bubble_sort.py)
+  - [插入排序](/code-template/insertion_sort.py)
+  - [选择排序](/code-template/selection_sort.py)
+- [链表](/code-template/linked_list/linked_list.py)
+- [二分](/code-template/binary_search/binary_search.py)
 
 ## 个人账号
 **我的 Codeforces 账号**
