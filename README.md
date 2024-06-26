@@ -16,6 +16,10 @@
   - [冒泡排序](/code-template/bubble_sort.py)
   - [插入排序](/code-template/insertion_sort.py)
   - [选择排序](/code-template/selection_sort.py)
+  - [快速排序](/code-template/quick_sort.py)
+  - [归并排序](/code-template/merge_sort.py)
+  - [堆排序](/code-template/heap_sort.py)
+  - [基数排序](/code-template/counting_sort.py)
 - [链表](/code-template/linked_list/linked_list.py)
 - [二分](/code-template/binary_search/binary_search.py)
 
