@@ -22,6 +22,7 @@
   - [基数排序](/code-template/counting_sort.py)
 - [链表](/code-template/linked_list/linked_list.py)
 - [二分](/code-template/binary_search/binary_search.py)
+- [位运算](/code-template/bitwise/bitwise.py)
 
 ## 个人账号
 **我的 Codeforces 账号**
