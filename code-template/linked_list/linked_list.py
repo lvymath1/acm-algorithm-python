@@ -11,3 +11,8 @@
 [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/description/)
 [86. 分隔链表](https://leetcode.cn/submissions/detail/537679631/)
 """
+
+"""
+链表技巧
+[160. 相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/description/)
+"""
